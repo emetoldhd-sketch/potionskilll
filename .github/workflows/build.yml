@@ -1,4 +1,4 @@
-/name: Build PotionSkill
+name: Build PotionSkill
 on:
   push:
   workflow_dispatch:
